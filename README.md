@@ -32,7 +32,7 @@ However, if he does not have a firm idea, he must also be given the means to str
 in the shelves of a real library: for that, he can directly access a classification
 thematic, new products, best sellers, etc.</p>
 <h6>Discovery of works:</h6>
-<p>Each book sold on the site www.JustConnectStoreOnline.be will be presented in detail on its own page.
+<p>Each book sold on the site www.JustConnectStoreOnline.tn will be presented in detail on its own page.
 will find in particular:
 <ul>
   <li>an image (for most works) that the user can enlarge,</li>
