@@ -71,10 +71,10 @@ order form information!
 The concept<p></li>
 </ul>
 </p>
-<h6>Performance requirements
+<h6>Performance requirements<p>
 <ul>
 <li>The jeBouquine bookstore must be able to manage the accounts of more than 10,000 customers.</li>
 <li>The website must support more than 1,000 simultaneous connections.</li>
 <li>The catalog of works must be able to include more than 1,000,000 titles.</li>
 <li>No search should take more than 2 seconds.</li>
-</ul></h6>
+</ul></p></h6>
