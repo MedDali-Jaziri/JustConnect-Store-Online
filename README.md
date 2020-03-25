@@ -2,16 +2,16 @@
 
 This project was carried out by Mohamed Ali Jaziri, the objective of this work is to create a site for JeBounique with .NET Framework. and this the Specifications:
 
-<center><h3>"JeBouquine.tn" project specifications</h3></center>
-The jeBouquine company recently decided to join the ranks of the major online bookstores. The shelves already
+<center><h3>"JustGroupe.tn" project specifications</h3></center>
+The JustGroupe company recently decided to join the ranks of the major online bookstores. The shelves already
 open on the website are very diverse: Information Technology, Science and Technology, Psychology, Decoration and
 Gardening. The jeBouquine bookstore ensures, in addition to French-speaking books, distribution in the English language
 from a wide selection of works from the largest English and American publishers. For example, we find in the
 IT department of titles from Addison-Wesley, McGraw-Hill, O’Reilly, Wiley, Wrox Press, etc.
-The fundamental objective of the future site www.jeBouquine.tn is to allow Internet users to search for
+The fundamental objective of the future site www.JustConnectStoreOnline.tn is to allow Internet users to search for
 works by theme, author, keyword, etc., to build a virtual basket, then to be able to order and
 pay them directly on the web.
-The expectations of jBouquine managers of this site are:
+The expectations of JustConnect StoreOnline managers of this site are:
 <ul>
   <li>Take a place in the online bookstore market in front of generalist competitors such as
 www.amazon.fr, www.fnac.com or www.eyrolles.com</li>
@@ -32,7 +32,7 @@ However, if he does not have a firm idea, he must also be given the means to str
 in the shelves of a real library: for that, he can directly access a classification
 thematic, new products, best sellers, etc.</p>
 <h6>Discovery of works:</h6>
-<p>Each book sold on the site www.jeBouquine.be will be presented in detail on its own page.
+<p>Each book sold on the site www.JustConnectStoreOnline.be will be presented in detail on its own page.
 will find in particular:
 <ul>
   <li>an image (for most works) that the user can enlarge,</li>
@@ -74,7 +74,7 @@ The concept<p></li>
 <h6>Performance requirements</h6>
 <p>
 <ul>
-<li>The jeBouquine bookstore must be able to manage the accounts of more than 10,000 customers.</li>
+<li>The JustConnect StoreOnline must be able to manage the accounts of more than 10,000 customers.</li>
 <li>The website must support more than 1,000 simultaneous connections.</li>
 <li>The catalog of works must be able to include more than 1,000,000 titles.</li>
 <li>No search should take more than 2 seconds.</li>
