@@ -22,7 +22,7 @@ be able to quickly implement important new features.</li>
 <p>Quickly invent differentiating elements to become in the medium term (less than two years) the
 number one in Tunisia for online book sales. The website should therefore be easily upgradeable for
 be able to quickly implement important new features.</p>
-<u>Search for books:</u>
+<h6>Search for books:</h6>
 <p>The first step for the internet user is to find a desired work as quickly as possible
 throughout the catalog. The references of this work can be more or less precise, it is necessary
 provide him with several different research methods. The user will be able to enter a criterion (title,
@@ -31,3 +31,13 @@ on a particular page, and should be able to be easily browsed and reclassified.
 However, if he does not have a firm idea, he must also be given the means to stroll as he would
 in the shelves of a real library: for that, he can directly access a classification
 thematic, new products, best sellers, etc.</p>
+<h6>Discovery of works:</h6>
+<p>Each book sold on the site www.jeBouquine.be will be presented in detail on its own page.
+will find in particular:
+<ul>
+  <li>an image (for most works) that the user can enlarge,</li>
+  <li>its price and availability,</li>
+  <li>comments from readers who are already customers,</li>
+  <li>the detailed table of contents, extracts from chapters, etc.</li>
+  </ul>
+</p>
