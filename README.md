@@ -19,9 +19,9 @@ www.amazon.fr, www.fnac.com or www.eyrolles.com</li>
 number one in Tunisia for online book sales. The website should therefore be easily upgradeable for
 be able to quickly implement important new features.</li>
  </ul>
- Quickly invent differentiating elements to become in the medium term (less than two years) the
+<p>Quickly invent differentiating elements to become in the medium term (less than two years) the
 number one in Tunisia for online book sales. The website should therefore be easily upgradeable for
-be able to quickly implement important new features.
+be able to quickly implement important new features.</p>
 <u>Search for books:</u>
 <p>The first step for the internet user is to find a desired work as quickly as possible
 throughout the catalog. The references of this work can be more or less precise, it is necessary
