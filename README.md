@@ -41,3 +41,33 @@ will find in particular:
   <li>the detailed table of contents, extracts from chapters, etc.</li>
   </ul>
 </p>
+<h6>Selection of books:</h6>
+<p>In a real store, the customer chooses his articles one after the other, deposits them in his
+basket, then goes to the cashier to settle everything. Merchant websites try to reproduce these
+buying habits as faithfully as possible.
+So, when the user is interested in a work, he can save it in a virtual basket. He must
+then be able to add, delete or modify the quantities at any time before
+place an order.</p>
+<h6>Order of works:</h6>
+<p>At any time, the customer must be able to access the order form, in which he enters his
+contact details and information necessary for payment and delivery. To guarantee security and
+confidentiality of exchanges, it is imperative that the sending of data is done in an encrypted manner. In
+if the customer wishes, the system must be able to print a quote to order
+by fax or mail. The customer should then be able to follow his recent orders, and even the
+modify before shipment, securely.
+Generally speaking, the customer should be able to manage their account, i.e. change their contact details,
+preferences, add addresses, etc.</p>
+<h6>Quality requirements</h6>
+<p>
+<ul>
+<li>Sober and efficient ergonomics
+<p>Buying a book on the web doesn't have to take a lot of time or require a mastery of
+math! The layout of the site will make the process as easy as possible with the help of a
+clear and intuitive presentation. Sites that are too rich and too complex do not encourage people to buy because they
+  require significant and unwanted intellectual effort.</p></li>
+  <li>Simple order form
+<p>Very often, the user stalls when buying, because the most important effort to make is
+order form information!
+The concept<p></li>
+</ul>
+</p>
