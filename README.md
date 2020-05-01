@@ -1,6 +1,8 @@
 # JustConnect-Store-Online
 
-This project was carried out by Mohamed Ali Jaziri, the objective of this work is to create a site for JustConnect StoreOnline with .NET Framework. and this the Specifications:
+This project was carried out by Mohamed Ali Jaziri, the objective of this work is to create a site for JustConnect StoreOnline with .NET Framework and you can watch the video for more details and this is my YouTube channel https://www.youtube.com/watch?v=6SAxujg0-Tc
+
+This the Specifications:
 
 <center><h3>"JustGroupe.tn" project specifications</h3></center>
 The JustGroupe company recently decided to join the ranks of the major online bookstores. The shelves already
